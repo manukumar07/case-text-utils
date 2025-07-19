@@ -1,6 +1,6 @@
 {
   "name": "case-text-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tiny, dependency-free utility to convert string cases like camelCase, snake_case, kebab-case, PascalCase, Title Case, UPPER_CASE, and more.",
   "main": "src/index.js",
   "type": "module",
