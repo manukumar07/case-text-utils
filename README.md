@@ -1,4 +1,4 @@
-# 🔠 text-case-utils
+# text-case-utils
 
 A tiny utility (2KB) for converting between string cases: camelCase, snake_case, kebab-case, PascalCase, UPPERCASE, lowercase.
 
