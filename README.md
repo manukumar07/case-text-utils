@@ -1,14 +1,14 @@
-# text-case-utils
+# case-text-utils
 
 A tiny utility (2KB) for converting between string cases: camelCase, snake_case, kebab-case, PascalCase, UPPERCASE, lowercase.
 
 ## 📦 Installation
 
 ```bash
-npm i text-case-utils
+npm i case-text-utils
 ```
 
-## ✨ Why use `text-case-utils`?
+## ✨ Why use `case-text-utils`?
 
 ✅ Lightweight (under 2KB)  
 ✅ Zero dependencies  
@@ -34,7 +34,7 @@ import {
   toDot,
   toPath,
   convertCase
-} from 'text-case-utils';
+} from 'case-text-utils';
 
 toCamel('hello_world-text');     // "helloWorldText"
 toSnake('helloWorldText');       // "hello_world_text"

@@ -1,5 +1,5 @@
 {
-  "name": "text-case-utils",
+  "name": "case-text-utils",
   "version": "1.0.0",
   "description": "A tiny, dependency-free utility to convert string cases like camelCase, snake_case, kebab-case, PascalCase, Title Case, UPPER_CASE, and more.",
   "main": "src/index.js",
@@ -23,7 +23,9 @@
     "utils",
     "case-conversion",
     "text-case",
-    "format"
+    "case-text",
+    "format",
+    "utils"
   ],
   "author": "Manu Kumar Pal",
   "license": "MIT",
