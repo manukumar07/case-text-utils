@@ -49,7 +49,7 @@ toPath('helloWorldCase');        // "hello/world/case"
 
 // 🔁 One-liner universal converter
 convertCase('hello-world_case', 'pascal'); // "HelloWorldCase"
-convertCase('helloWorld', 'dot');          // "hello.world"
+
 
 ```
 
