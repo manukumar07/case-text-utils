@@ -4,6 +4,12 @@
   "description": "A tiny, dependency-free utility to convert string cases like camelCase, snake_case, kebab-case, PascalCase, Title Case, UPPER_CASE, and more.",
   "main": "src/index.js",
   "type": "module",
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "require": "./src/index.js"
+    }
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
