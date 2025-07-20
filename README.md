@@ -54,7 +54,6 @@ convertCase('hello-world_case', 'pascal'); // "HelloWorldCase"
 ```
 
 ## ✅ Output Preview
-
 ```
 console.log(toCamel('hello_world-case'));
 // → "helloWorldCase"
